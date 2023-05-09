@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # mas-facil
 =======
+=======
+>>>>>>> 89754ec80a05635011d9399f791b69a587e359ca
 # Dawn
 
 [![Build status](https://github.com/shopify/dawn/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Shopify/dawn/actions/workflows/ci.yml?query=branch%3Amain)
@@ -100,4 +103,7 @@ Ensure that you follow the list of [theme store requirements](https://shopify.de
 ## License
 
 Copyright (c) 2021-present Shopify Inc. See [LICENSE](/LICENSE.md) for further details.
+<<<<<<< HEAD
 >>>>>>> 3eb38fdd (Hello world, this is Dawn :))
+=======
+>>>>>>> 89754ec80a05635011d9399f791b69a587e359ca
